@@ -1,0 +1,47 @@
+.Recipe h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(209, 170, 245);
+    padding: 15px;
+    margin: 20px;
+}
+.list li a{
+    text-decoration: none;
+    font-size: larger;
+    
+}
+.list{
+    background-color: antiquewhite;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+    background-color: rgb(81, 247, 150);
+    font-size: xx-large;
+}
+p{
+    border: 15px;
+    background-color: rgb(248, 174, 217);
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: x-large;
+    padding: 20px;
+    
+}
+img {
+    width: 25%; 
+    height: auto; 
+    padding-left: 500px;
+
+}
+ul li{
+   font-size: large; 
+   background-color: rgb(232, 253, 113);
+   padding: 15px;
+}
+ol li{
+    font-size: large; 
+    background-color: rgb(232, 253, 113);
+    padding: 15px;
+}
