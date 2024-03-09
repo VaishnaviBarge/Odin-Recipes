@@ -35,13 +35,8 @@ img {
     padding-left: 500px;
 
 }
-ul li{
+ul li,ol li{
    font-size: large; 
    background-color: rgb(232, 253, 113);
    padding: 15px;
-}
-ol li{
-    font-size: large; 
-    background-color: rgb(232, 253, 113);
-    padding: 15px;
 }
